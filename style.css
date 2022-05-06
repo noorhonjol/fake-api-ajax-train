@@ -1,0 +1,25 @@
+#demo div{
+    width: 29%;
+    height: 500px;
+    border: solid;
+    margin: 2%;
+    display :flex;
+    align-items: center;
+    flex-direction: column;
+}
+#demo div img{
+    width: 29%;
+    height: 250px;
+}
+#demo div p{
+    font-size :2em;
+}
+#demo{
+    padding: 20px;
+    margin: 20px;
+    display :flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items : center;
+}
