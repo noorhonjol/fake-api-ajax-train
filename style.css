@@ -1,4 +1,4 @@
-#demo div{
+#products-list div{
     width: 29%;
     height: 500px;
     border: solid;
@@ -7,14 +7,14 @@
     align-items: center;
     flex-direction: column;
 }
-#demo div img{
+#products-list div img{
     width: 29%;
     height: 250px;
 }
-#demo div p{
+#products-list div p{
     font-size :2em;
 }
-#demo{
+#products-list{
     padding: 20px;
     margin: 20px;
     display :flex;
